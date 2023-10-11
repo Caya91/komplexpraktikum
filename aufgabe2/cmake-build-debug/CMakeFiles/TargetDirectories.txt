@@ -1,0 +1,3 @@
+/home/martin/komplexpraktikum/aufgabe2/cmake-build-debug/CMakeFiles/aufgabe2.dir
+/home/martin/komplexpraktikum/aufgabe2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/martin/komplexpraktikum/aufgabe2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
